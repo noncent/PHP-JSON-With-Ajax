@@ -7,13 +7,13 @@ array(
 "first_name" => "Neeraj",
 "last_name" => "Singh",
 "age" => "29",
-"email" => "neeraj.singh@globalspace.in"
+"email" => "me@gmail.com"
 ),
 array(
 "first_name" => "Sonu",
 "last_name" => "Singh",
 "age" => "29",
-"email" => "neerajsinghsonu@gmail.com"
+"email" => "you@gmail.com"
 )
 );
 /* encode the array as json. this will output
